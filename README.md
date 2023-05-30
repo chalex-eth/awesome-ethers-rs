@@ -33,6 +33,7 @@ CFMM lib built in Rust enabling pair syncing and swap simulation with pools on E
 - [MEV template](https://github.com/degatchi/mev-template-rs) Bootstrap your MEV bot strategies with a simple boilerplate to build on top of.
 - [Eth mempool listener rs](https://github.com/0xpanoramix/eth-mempool-listener-rs) A simple program able to listen to the pending transactions of the Ethereum mempool. Written in Rust.
 - [Foundry rust template](https://github.com/foundry-rs/foundry-rust-template/tree/master) Template for quickly getting started with developing Rust applications that leverage Foundry for EVM smart contract development
+- [Perp cli curie](https://github.com/brendanwenzel/perp_cli_curie) Built for Perpetual Protocol v2 Curie on Optimism chain. This CLI tool was built with Rust.
 
 ## Tutorials
 
