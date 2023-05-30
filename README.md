@@ -11,7 +11,7 @@ The ethereum rust library.
 - [Ethers-rs examples](https://github.com/gakonst/ethers-rs/tree/master/examples) Github example of capabilites of ethers-rs
 
 ## Framework 
-- [Artemis] (https://github.com/paradigmxyz/artemis/tree/main) A simple, modular, and fast framework for writing MEV bots in Rust.
+- [Artemis](https://github.com/paradigmxyz/artemis/tree/main) A simple, modular, and fast framework for writing MEV bots in Rust.
 - [Arbiter](https://github.com/primitivefinance/arbiter) Arbiter is being primarily developed to be a tool in evaluating economic and game theoretic security of DeFi applications.
 - [Foundry-rs](https://github.com/foundry-rs/foundry) Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [Helios](https://github.com/0xKitsune/helios/tree/master) A fast, secure, and portable light client for Ethereum
