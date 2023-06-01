@@ -35,6 +35,7 @@ CFMM lib built in Rust enabling pair syncing and swap simulation with pools on E
 - [Foundry rust template](https://github.com/foundry-rs/foundry-rust-template/tree/master) Template for quickly getting started with developing Rust applications that leverage Foundry for EVM smart contract development
 - [Perp cli curie](https://github.com/brendanwenzel/perp_cli_curie) Built for Perpetual Protocol v2 Curie on Optimism chain. This CLI tool was built with Rust.
 - [Octane](https://github.com/SorellaLabs/ethers-reth) An ether-rs middleware to access reth's db directly, bypassing JSON-RPC
+- [OpenZeppelin-rs](https://github.com/sshmaxime/openzeppelin-rs/tree/master) Use OpenZeppelin's contracts in Rust using ethers-rs library.
 
 ## Tutorials
 
