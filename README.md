@@ -21,7 +21,7 @@ The ethereum rust library.
 
 
 
-## Projects using ethers-rs
+## Projects using rust / ethers-rs
 - [Yield liquidator](https://github.com/yieldprotocol/yield-liquidator/)
 - [Flashbots MEV inspector](https://github.com/flashbots/mev-inspect-rs/)
 - [Flashbots ethers-rs middleware](https://github.com/onbjerg/ethers-flashbots) An Ethers-rs middleware to send transactions as Flashbots bundles.
@@ -36,7 +36,7 @@ CFMM lib built in Rust enabling pair syncing and swap simulation with pools on E
 - [Perp cli curie](https://github.com/brendanwenzel/perp_cli_curie) Built for Perpetual Protocol v2 Curie on Optimism chain. This CLI tool was built with Rust.
 - [Octane](https://github.com/SorellaLabs/ethers-reth) An ether-rs middleware to access reth's db directly, bypassing JSON-RPC
 - [OpenZeppelin-rs](https://github.com/sshmaxime/openzeppelin-rs/tree/master) Use OpenZeppelin's contracts in Rust using ethers-rs library.
-
+- [Glados](https://github.com/ethereum/glados/tree/master) Portal network monitoring application.
 ## Tutorials
 
 - [Ethers rs library](https://docs.moonbeam.network/builders/build/eth-api/libraries/ethersrs/) How to use the Ethers.rs library to send a transaction and deploy a contract on Moonbase Alpha
