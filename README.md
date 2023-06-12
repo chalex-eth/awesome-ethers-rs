@@ -37,6 +37,10 @@ CFMM lib built in Rust enabling pair syncing and swap simulation with pools on E
 - [Octane](https://github.com/SorellaLabs/ethers-reth) An ether-rs middleware to access reth's db directly, bypassing JSON-RPC
 - [OpenZeppelin-rs](https://github.com/sshmaxime/openzeppelin-rs/tree/master) Use OpenZeppelin's contracts in Rust using ethers-rs library.
 - [Glados](https://github.com/ethereum/glados/tree/master) Portal network monitoring application.
+- [Gearbox liquidation bot](https://github.com/Gearbox-protocol/liquidation-bot/tree/1c5f4324a469a5d226dc4c1dafc08d960efa2460) Gearbox liquidation bot
+
+
+
 ## Tutorials
 
 - [Ethers rs library](https://docs.moonbeam.network/builders/build/eth-api/libraries/ethersrs/) How to use the Ethers.rs library to send a transaction and deploy a contract on Moonbase Alpha
