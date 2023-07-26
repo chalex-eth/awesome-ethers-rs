@@ -39,7 +39,7 @@ CFMM lib built in Rust enabling pair syncing and swap simulation with pools on E
 - [Glados](https://github.com/ethereum/glados/tree/master) Portal network monitoring application.
 - [Gearbox liquidation bot](https://github.com/Gearbox-protocol/liquidation-bot/tree/1c5f4324a469a5d226dc4c1dafc08d960efa2460) Gearbox liquidation bot
 - [Uniswapx Artemis](https://github.com/marktoda/uniswapx-artemis/) Sample Artemis bot to fill UniswapX orders using on-chain liquidity
-
+- [UniswapX-SDK-RS](https://github.com/nhtyy/uniswapx-sdk-rs) A crate for consuming, and coordinating filler services for UniswapX orders.
 
 
 ## Tutorials
