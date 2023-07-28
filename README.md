@@ -28,7 +28,7 @@ The ethereum rust library.
 - [Ethers-fireblocks](https://github.com/gakonst/ethers-fireblocks) Provides ethers-compatible Signer and Middleware implementations for the Fireblocks Vaults API.
 - [Rusty sando](https://github.com/mouseless-eth/rusty-sando) A practical example on how to perform V2/V3 and multi-meat sandwich attacks written using Rust and Huff.
 - [Subway-rs](https://github.com/refcell/subway-rs) Construct evm-based sandwich attacks using Rust and Huff.
-- [CFMM-RS](https://github.com/0xKitsune/cfmms-rs) 
+- [CFMM-RS](https://github.com/0xKitsune/cfmms-rs) See AMMS-RS for new version. 
 CFMM lib built in Rust enabling pair syncing and swap simulation with pools on Ethereum.
 - [MEV template](https://github.com/degatchi/mev-template-rs) Bootstrap your MEV bot strategies with a simple boilerplate to build on top of.
 - [Eth mempool listener rs](https://github.com/0xpanoramix/eth-mempool-listener-rs) A simple program able to listen to the pending transactions of the Ethereum mempool. Written in Rust.
@@ -40,7 +40,7 @@ CFMM lib built in Rust enabling pair syncing and swap simulation with pools on E
 - [Gearbox liquidation bot](https://github.com/Gearbox-protocol/liquidation-bot/tree/1c5f4324a469a5d226dc4c1dafc08d960efa2460) Gearbox liquidation bot
 - [Uniswapx Artemis](https://github.com/marktoda/uniswapx-artemis/) Sample Artemis bot to fill UniswapX orders using on-chain liquidity
 - [UniswapX-SDK-RS](https://github.com/nhtyy/uniswapx-sdk-rs) A crate for consuming, and coordinating filler services for UniswapX orders.
-
+- [AMMS-RS](https://github.com/darkforestry/amms-rs) A rust library to interacted with automated market makers across EVM chains.
 
 ## Tutorials
 
